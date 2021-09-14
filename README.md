@@ -22,8 +22,11 @@ Assim que o produto fosse selecionado, o sistema enviaria um sinal remoto a plac
 A simples aplicação de escolha de produtos foi desenvolvida usando a tecnologia [App inventor](https://appinventor.mit.edu/about-us). E com um simples smartphone simulando o display da vending machine, conseguimos facilmente gerir as telas de navegação para o usuário.
 2. __Arduino__:
 A decisão de uso do [arduino](https://www.arduino.cc) como placa de integração foi tomada de forma rápida e sucinta, visto sua facilidade de comunicação com softwares, módulos e outros componentes como por exemplo a __placa bluetooth__, responsável por estabelecer a comunicação entre a aplicação e o próprio hardware da maquina, e um __cervo motor__ que também conectada a placa arduino, tinha como tarefa permitir acesso ou não aos produtos, abrindo e fechando a porta da *vending machine*.
+
+__Arquitetura do hardware utilizado__
+![circuito](https://user-images.githubusercontent.com/29134051/133176431-4c3d50df-a717-401a-aab3-27e6d598e667.png)
 ### Contribuições pessoais (Individual)
 Durante o desenvolvimento do projeto, contribuí com a criação das telas da aplicação, que por sua vez era responsável por interagir com o cliente mostrando todos os produtos a venda e também os disponíveis para compra.
 ### Aprendizados Efetivos HS (Individual)
-- App Inventor: Desenvolver e automatizar telas; Sei fazer sozinho. 
-- Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto; Sei fazer sozinho.
+- App Inventor: Desenvolver e automatizar telas: Sei fazer com autonomia
+- Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia
