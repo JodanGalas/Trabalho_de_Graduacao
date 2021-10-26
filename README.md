@@ -96,7 +96,7 @@ Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão
 - Servidor Azure: Para deploy do banco de dados utilizado no sistema.
 
 ### Contribuições pessoais (Individual)
-- Manipulação de os todos arquivos geográficos utilizados ao longo do projeto.
+- Manipulação de todos os arquivos geográficos utilizados ao longo do projeto.
 - Criação e manutenção do banco de dados utilizado pelo sistema.
 - Desenvolvimento do prototipo.
 ### Aprendizados Efetivos HS (Individual)
