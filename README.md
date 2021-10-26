@@ -66,7 +66,7 @@ Durante todo o projeto contribuí com:
  - Leitura e raspagem de todos os dados utilizados ao longo do projeto;
  - Criação das telas da aplicação.
  - Testes
- - 
+ 
 ### Aprendizados Efetivos HS (Individual)
 - Python: Usar da linguagem de programação para manipular dados: Sei fazer com autonomia;
 - Tkinter: Criação de telas e módulos para auxiliar a interação com o cliente: Faço com ajuda;
