@@ -30,3 +30,78 @@ Durante o desenvolvimento do projeto, contribuí com a criação das telas da ap
 ### Aprendizados Efetivos HS (Individual)
 - App Inventor: Desenvolver e automatizar telas: Sei fazer com autonomia
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia
+
+<h1 align="center"> Projeto 2: 2020-1 </h1>
+
+### Parceiro Acadêmico
+> SPC Brasil com a FATEC de São José dos Campos.
+### Visão do Projeto (Equipe)
+O tema proposto nasceu partir na necessiade de gerar valor dados obtidos através da nova lei do cadastro positivo, que faz com que a enrtrada de pessoas físicas e juridicas seja feita de forma automatica, sem a necessidade de ampla escolha de participação, apenas para remoção do programa.
+Assim, a equipe teve a ideia de criar o "Auxílio Emergencial Positivo". Programa que, através de uma leitura dos dados dos participantes o permite, se apto, adquirir o auxilio. Neste caso, O Score do cliente será congelado por 2 meses (60 dias) e os pagamentos desse período não influenciarão no cálculo da pontuação.
+- Situações de emergência
+  - Catástrofe natural;
+  - Doenças graves;
+  - Recisão sem justa causa;
+  - Pandemia;
+
+#### Sobre o projeto
+Foi desenvolvido uma aplicação desktop para que os Assistentes de Atendimento verifiquem a viabilidade de inclusão do consumidor no Auxilio Emergencial Positivo.
+
+### Link do repositório original do projeto
+>Acesse o link do repositório origianl do projeto clicando __*[AQUI](https://github.com/marciosousa4/projeto-integrador)*__.
+
+### Tecnologias adotadas na solução (Equipe)
+Para que o projeto fosse desenvolvido da melhor maneira possível, a equipe optou por usar a linguagem de programação 1.__[Python](https://github.com/topics/python)__ por ser intuitiva e além disso, obter vários recursos necessários para o projeto tais como a biblioteca de interface gráfica  2.__[Tkinter](https://docs.python.org/3/library/tkinter.html)__ usada para a criação de telas além de 3.__[Pandas](https://pandas.pydata.org/docs/)__ e 4.__[matplotlib](https://matplotlib.org)__ para leitura, raspagem dos dados e criação de gráficos.
+
+### Diagrama de caso de uso
+![diagrama](https://raw.githubusercontent.com/marciosousa4/projeto-integrador/master/Sprint%206/Diagrama%20de%20caso%20de%20uso.jpeg)
+
+### Demonstração do sistema
+![](https://github.com/marciosousa4/projeto-integrador/raw/master/Sprint%205/RELACIONAMENTO%20sprint%205.gif?raw=true)
+
+### Contribuições pessoais (Individual)
+
+Neste projeto a equipe decidiu usar a metodologia ágil SCRUM, onde atuei DEV.
+Durante todo o projeto contribuí com:
+ - Leitura e raspagem de todos os dados utilizados ao longo do projeto;
+ - Criação das telas da aplicação.
+ - Testes
+ - 
+### Aprendizados Efetivos HS (Individual)
+- Python: Usar da linguagem de programação para manipular dados: Sei fazer com autonomia;
+- Tkinter: Criação de telas e módulos para auxiliar a interação com o cliente: Faço com ajuda;
+- Pandas: Para leitura e raspagem de dados: Sei fazer com autonomia;
+- Matplotlib: Para criação de gráficos: Sei fazer com autonomia;
+- Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+<h1 align="center"> Projeto 3: 2020-2 </h1>
+
+### Parceiro Acadêmico
+- Visiona Tecnologia Espacial
+
+### Sobre o Projeto (Equipe)
+Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão, carregamento e manipulação de arquivos com dados georeferenciados com a intenção de aprimorar a análise de dados, suportar o processamento de grandes volumes de dados do tipo shapefilee e melhorar aplicações focadas na capacidade de gerenciar dados espaciais.
+### Demonstração do sistema
+![gif](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/raw/master/Loading%20images/GEOFPI(sprint%204).gif?raw=true)
+
+### Link do repositório original do projeto
+>Acesse o link do repositório origianl do projeto clicando __*[AQUI](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador)*__.
+
+### Tecnologias adotadas na solução (Equipe)
+
+- Python: Para desenvolvimento do CRUD usado na aplicação.
+- Figma: Modelagem do protótipo.
+- ReactJS e Node.js: Desenvolvimento do frontend da aplicação.
+- PostgreSQL e PostGis: Para armazenamento e manipulação de arquivos geográficos.
+- Servidor Azure: Para deploy do banco de dados utilizado no sistema.
+
+### Contribuições pessoais (Individual)
+- Manipulação de os todos arquivos geográficos utilizados ao longo do projeto.
+- Criação e manutenção do banco de dados utilizado pelo sistema.
+- Desenvolvimento do prototipo.
+### Aprendizados Efetivos HS (Individual)
+- Desenvolvimento do CRUD usado na aplicação: Sei fazer com autonomia;
+- Modelagem do protótipo: Sei fazer com autonomia;
+- Desenvolvimento do frontend da aplicação: Sei fazer com ajuda;
+- Armazenamento e manipulação de arquivos geográficos: Sei fazer com ajuda;
+- Uso do servidor azure para deploy do banco de dados utilizado no sistema: Sei fazer com ajuda;
