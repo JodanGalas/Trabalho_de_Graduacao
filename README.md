@@ -77,7 +77,7 @@ Durante todo o projeto contribuí com:
 <h1 align="center"> Projeto 3: 2020-2 </h1>
 
 ### Parceiro Acadêmico
-- Visiona Tecnologia Espacial
+> Visiona Tecnologia Espacial
 
 ### Sobre o Projeto (Equipe)
 Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão, carregamento e manipulação de arquivos com dados georeferenciados com a intenção de aprimorar a análise de dados, suportar o processamento de grandes volumes de dados do tipo shapefilee e melhorar aplicações focadas na capacidade de gerenciar dados espaciais.
@@ -105,3 +105,4 @@ Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão
 - Desenvolvimento do frontend da aplicação: Sei fazer com ajuda;
 - Armazenamento e manipulação de arquivos geográficos: Sei fazer com ajuda;
 - Uso do servidor azure para deploy do banco de dados utilizado no sistema: Sei fazer com ajuda;
+- Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
