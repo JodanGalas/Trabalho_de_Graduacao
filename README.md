@@ -106,3 +106,102 @@ Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão
 - Armazenamento e manipulação de arquivos geográficos: Sei fazer com ajuda;
 - Uso do servidor azure para deploy do banco de dados utilizado no sistema: Sei fazer com ajuda;
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+<h1 align="center"> Projeto 4: 2021-1 </h1>
+
+### Parceiro Acadêmico
+> IACIT
+
+### Visão do Projeto (Equipe)
+Desenvolver uma ferramenta capaz de criar e gerenciar atas de reunião, Focando em requisitos específicos da empresa parceira. Assim, possibilitando principalmente:
+
+- Criar e editar atas de reunião:
+
+- Exportar atas diferentes formatos:
+  
+- Usabilidade mobile.
+
+A ferraemnta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de gerenciamento de atas "Mitim", a tarefa de criar, gerenciar e analisar atas digitais deixou de ser algo complexo. A ferramenta também conta com funcionalidades extras como exportação do documento em PDF e disponibilização de atas para pessoas não necessariamente cadastradas na ferramentas.
+
+### Tecnologias adotadas na solução (Equipe)
+
+- MySQL
+  
+- ReactJS
+  
+- Java
+  
+- CSS
+
+### Contribuições pessoais (Individual)
+Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável por criar a lógica das seguintes features:
+- Login de usuário:
+  
+- Cadastro de usuário
+
+- Cadastro de atas
+
+- Impressão de atas
+
+- Relatórios
+
+### Aprendizados Efetivos HS (Individual)
+
+- Desenvolvimento de serviços CRUD utilizando Java: Sei fazer com ajuda;
+  
+- Desenvolvimento utilizando Java: Sei fazer com ajuda;
+  
+- Utilização de ORM's com banco relacional: Sei fazer com autonomia;
+  
+- Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+<h1 align="center"> Projeto 5: 2021-2 </h1>
+
+### Parceiro Acadêmico
+> GSW
+
+### Visão do Projeto (Equipe)
+
+A empresa informou a necessidade de uma extensão de um produto que já existe, que consiste em um portal de anúncio e vendas de imóveis.
+A extensão deveria consistir em um marketplace para anúncios e vendas de automóveis. Possibiltando também a negociação do produto dentro do próprio sistema.
+
+Como solução a dor proposta, foi criada a plataforma "ByCar",que consiste em uma aplicação vasta, Web e mobile para anúncio e venda de veículos.
+A ferramenta também contem outras funcionalidades tais como:
+
+Cadastro de usuários e anúncios de forma automatizada;
+App mobile com todas as funcionalidades presentes na versão web;
+Busca pelos anúncios por meio de filtro e palavras-chaves:
+### Tecnologias adotadas na solução (Equipe)
+
+- Python
+  
+- MongoDB
+  
+- React native
+  
+- Expo
+
+### Contribuições pessoais (Individual)
+Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável por criar a lógica das seguintes features:
+
+- Criação de rotas;
+  
+- Criação de lógica para leitura de arquivos(.xls, .xlsx);
+  
+- Criação da lógica de envio de e-mail;
+  
+- Criação do CRUD de usuário;
+  
+- Criação do CRUD de anúncio;
+
+### Aprendizados Efetivos HS (Individual)
+
+- Desenvolvimento de serviços CRUD utilizando Python: Sei fazer com autonomia;
+  
+- Desenvolvimento utilizando Python: Sei fazer com autonomia;
+  
+- Utilização de ORM's com banco não relacional: Sei fazer com autonomia;
+  
+- Manipulação de arquivos .xls, .xlsx com python: Sei fazer com autonomia;
+  
+- Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
