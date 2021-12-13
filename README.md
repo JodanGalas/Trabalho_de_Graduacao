@@ -205,3 +205,8 @@ Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável po
 - Manipulação de arquivos .xls, .xlsx com python: Sei fazer com autonomia;
   
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+### Informações de contato
+[Linkedin](https://www.linkedin.com/in/jodangalas/)
+
+[Github](https://github.com/JodanGalas)
