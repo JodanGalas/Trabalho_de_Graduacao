@@ -121,7 +121,7 @@ Desenvolver uma ferramenta capaz de criar e gerenciar atas de reunião, Focando 
   
 - Usabilidade mobile.
 
-A ferraemnta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de gerenciamento de atas "Mitim", a tarefa de criar, gerenciar e analisar atas digitais deixou de ser algo complexo. A ferramenta também conta com funcionalidades extras como exportação do documento em PDF e disponibilização de atas para pessoas não necessariamente cadastradas na ferramentas.
+A ferramenta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de gerenciamento de atas "Mitim", a tarefa de criar, gerenciar e analisar atas digitais deixou de ser algo complexo. A ferramenta também conta com funcionalidades extras como exportação do documento em PDF e disponibilização de atas para pessoas não necessariamente cadastradas na ferramentas.
 
 ### Tecnologias adotadas na solução (Equipe)
 
@@ -135,7 +135,7 @@ A ferraemnta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de 
 
 ### Contribuições pessoais (Individual)
 Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável por criar a lógica das seguintes features:
-- Login de usuário:
+- Login de usuário
   
 - Cadastro de usuário
 
@@ -207,6 +207,53 @@ Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável po
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
 
 ### Informações de contato
+[Linkedin](https://www.linkedin.com/in/jodangalas/)
+
+[Github](https://github.com/JodanGalas)
+
+<h1 align="center"> Projeto 6: 2022-1 </h1>
+
+![166165589-b42c41e3-636e-4ba0-8c6d-e28dacfb8787](https://user-images.githubusercontent.com/29134051/166401001-e663d56b-ec12-40a6-9924-3cdb71e425d9.png)
+
+### Parceiro Acadêmico
+> UOL
+
+![UOL_logo](https://user-images.githubusercontent.com/29134051/166400924-89930a2b-ee52-4249-822b-08841456c095.png)
+### Visão do Projeto (Equipe)
+O Orbit foi desenvolvido pela necessidade de prever futuros problemas e falhas em um sistema web e sana-los o quanto antes através do monitoramento constante e aviso prévio, visando o funcionamento da ferramenta monitorada em questão.
+### Tecnologias adotadas na solução (Equipe)
+
+- Java 
+  
+- Spring Boot
+
+- Vue JS
+
+- Locust
+
+- Prometheus
+
+### Contribuições Pessoais
+
+Neste projeto contribuí com o gerenciamento e gestão da equipe fazendo o papel de Scrum Master bem como ponte de esclareciemnto entre empresa parceira e equipe de desenvolvimento. Gerir de forma correta o tempo ofertado e destribuir de forma correta para cada tarefa foi tido como um desafio.
+
+### Aprendizados Efetivos HS (Individual)
+
+- Gestão de equipe: Sei fazer com autonomia
+- Java Spring Boot: Sei fazer com autonomia
+- Vue.js: Sei fazer com ajuda
+- Locust: Sei fazer com ajuda
+- Prometheus: Sei fazer com ajuda
+
+### Meus Principais Conhecimentos
+- Python
+  
+- MySQL
+  
+- Spring Boot 
+
+### Informações de contato
+
 [Linkedin](https://www.linkedin.com/in/jodangalas/)
 
 [Github](https://github.com/JodanGalas)
