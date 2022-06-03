@@ -1,8 +1,14 @@
-
 <h1 align="center"> Trabalho de Graduação </h1>
 <p align="center">
 Repositório destinado a matéria de "Trabalho de graduação - 1" do 5º semestre do curso de ADS da faculdade de tecnologia de São José dos Campos - FATEC SJC
 </p>
+
+<div>
+	<img src="/img/foto_perfil.jpg" alt="Foto de perfil" width=150 height=150 />
+	<p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 6º semestre. Desenvolvedor python e entusiasta do mundo tecnológico! Atualmente atuando na área de TI como desenvolvedor back-end na MidAll Data Tech.</p>
+</div>
+
+# Meus Projetos
 
 <h1 align="center"> Projeto 1: 2019-2 </h1>
 
@@ -79,6 +85,8 @@ Durante todo o projeto contribuí com:
 ### Parceiro Acadêmico
 > Visiona Tecnologia Espacial
 
+A Visiona Tecnologia Espacial  é a empresa brasileira resultante de uma iniciativa única do Governo brasileiro de estimular a criação de uma empresa integradora na indústria espacial. a Visiona é uma joint-venture entre a Telebras, empresa de economia mista do setor de telecomunicações, e a Embraer, empresa privada líder nos setores aeroespacial e de defesa. A criação da Visiona corresponde a uma das ações selecionadas como prioritárias no Programa Nacional de Atividades Espaciais (PNAE) para atender aos objetivos e às diretrizes da Política Nacional de Desenvolvimento das Atividades Espaciais (PNDAE) e da Estratégia Nacional de Defesa (END). (fonte:https://www.visionaespacial.com.br/)
+
 ### Sobre o Projeto (Equipe)
 Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão, carregamento e manipulação de arquivos com dados georeferenciados com a intenção de aprimorar a análise de dados, suportar o processamento de grandes volumes de dados do tipo shapefilee e melhorar aplicações focadas na capacidade de gerenciar dados espaciais.
 ### Demonstração do sistema
@@ -111,6 +119,10 @@ Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão
 
 ### Parceiro Acadêmico
 > IACIT
+
+A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
+
+A empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria. (Fonte: https://www.iacit.com.br/).
 
 ### Visão do Projeto (Equipe)
 Desenvolver uma ferramenta capaz de criar e gerenciar atas de reunião, Focando em requisitos específicos da empresa parceira. Assim, possibilitando principalmente:
