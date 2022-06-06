@@ -1,8 +1,5 @@
-<h1 align="center"> Trabalho de Graduação </h1>
-<p align="center">
-Repositório destinado a matéria de "Trabalho de graduação - 1" do 5º semestre do curso de ADS da faculdade de tecnologia de São José dos Campos - FATEC SJC
-</p>
-
+# Jodan Lima Galas
+## Introdução
 <div>
 	<img src="/img/foto_perfil.jpg" alt="Foto de perfil" width=150 height=150 />
 	<p>Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente cursando o 6º semestre. Desenvolvedor python e entusiasta do mundo tecnológico! Atualmente atuando na área de TI como desenvolvedor back-end na MidAll Data Tech.</p>
@@ -15,7 +12,9 @@ Repositório destinado a matéria de "Trabalho de graduação - 1" do 5º semest
 ### Parceiro Acadêmico
 >Fatec Prof. Jessen Vidal 
 
-Tendo como idealizador do projeto o próprio docente responsável pela matéria.
+A Faculdade de Tecnologia de São José dos Campos — Prof. Jessen Vidal que pertence ao Centro Paula Souza, oferece cursos de graduação para formar tecnólogos.
+Para acompanhar o crescimento da chamada indústria 4.0, a instituição propôs adotar uma estratégia de Aprendizado por Projeto Integrador (chamado API), e nesse segundo semestre de 2019, iniciou esse projeto e se disponibilizou como empresa parceira.
+
 ### Visão do Projeto (Equipe)
 Tema livre. Os próprios alunos puderam dar sugestões de temas e soluções, contanto que no desenvolvimento do projeto fosse usado como integração alguma placa de prototipagem eletrônica.
 
@@ -31,16 +30,28 @@ A decisão de uso do [arduino](https://www.arduino.cc) como placa de integraçã
 
 __Arquitetura do hardware utilizado__
 ![circuito](https://user-images.githubusercontent.com/29134051/133176431-4c3d50df-a717-401a-aab3-27e6d598e667.png)
-### Contribuições pessoais (Individual)
+### Contribuições pessoais
 Durante o desenvolvimento do projeto, contribuí com a criação das telas da aplicação, que por sua vez era responsável por interagir com o cliente mostrando todos os produtos a venda e também os disponíveis para compra.
-### Aprendizados Efetivos HS (Individual)
+
+### Hard Skills
 - App Inventor: Desenvolver e automatizar telas: Sei fazer com autonomia
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia
+
+### Soft Skills
+
+- Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 <h1 align="center"> Projeto 2: 2020-1 </h1>
 
 ### Parceiro Acadêmico
 > SPC Brasil com a FATEC de São José dos Campos.
+
+O SPC Brasil está junto com os brasileiros há mais de 60 anos, prestando serviços especializados a toda a sociedade. Oferecem soluções aos consumidores e empresários com o objetivo de facilitar a realização de negócios.
+Mais do que auxiliar as empresas na concessão de crédito, o SPC Brasil apoia os processos de tomada de decisão com informações, inteligência, soluções de negócio e identidade digital.
+
 ### Visão do Projeto (Equipe)
 O tema proposto nasceu partir na necessiade de gerar valor dados obtidos através da nova lei do cadastro positivo, que faz com que a enrtrada de pessoas físicas e juridicas seja feita de forma automatica, sem a necessidade de ampla escolha de participação, apenas para remoção do programa.
 Assim, a equipe teve a ideia de criar o "Auxílio Emergencial Positivo". Programa que, através de uma leitura dos dados dos participantes o permite, se apto, adquirir o auxilio. Neste caso, O Score do cliente será congelado por 2 meses (60 dias) e os pagamentos desse período não influenciarão no cálculo da pontuação.
@@ -65,7 +76,7 @@ Para que o projeto fosse desenvolvido da melhor maneira possível, a equipe opto
 ### Demonstração do sistema
 ![](https://github.com/marciosousa4/projeto-integrador/raw/master/Sprint%205/RELACIONAMENTO%20sprint%205.gif?raw=true)
 
-### Contribuições pessoais (Individual)
+### Contribuições pessoais
 
 Neste projeto a equipe decidiu usar a metodologia ágil SCRUM, onde atuei DEV.
 Durante todo o projeto contribuí com:
@@ -73,12 +84,19 @@ Durante todo o projeto contribuí com:
  - Criação das telas da aplicação.
  - Testes
  
-### Aprendizados Efetivos HS (Individual)
+### Hard Skills
 - Python: Usar da linguagem de programação para manipular dados: Sei fazer com autonomia;
 - Tkinter: Criação de telas e módulos para auxiliar a interação com o cliente: Faço com ajuda;
 - Pandas: Para leitura e raspagem de dados: Sei fazer com autonomia;
 - Matplotlib: Para criação de gráficos: Sei fazer com autonomia;
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+### Soft Skills
+
+- Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 <h1 align="center"> Projeto 3: 2020-2 </h1>
 
@@ -103,17 +121,26 @@ Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão
 - PostgreSQL e PostGis: Para armazenamento e manipulação de arquivos geográficos.
 - Servidor Azure: Para deploy do banco de dados utilizado no sistema.
 
-### Contribuições pessoais (Individual)
+### Contribuições pessoais
 - Manipulação de todos os arquivos geográficos utilizados ao longo do projeto.
 - Criação e manutenção do banco de dados utilizado pelo sistema.
 - Desenvolvimento do prototipo.
-### Aprendizados Efetivos HS (Individual)
+- 
+### Hard Skills
+
 - Desenvolvimento do CRUD usado na aplicação: Sei fazer com autonomia;
 - Modelagem do protótipo: Sei fazer com autonomia;
 - Desenvolvimento do frontend da aplicação: Sei fazer com ajuda;
 - Armazenamento e manipulação de arquivos geográficos: Sei fazer com ajuda;
 - Uso do servidor azure para deploy do banco de dados utilizado no sistema: Sei fazer com ajuda;
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+### Soft Skills
+
+- Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 <h1 align="center"> Projeto 4: 2021-1 </h1>
 
@@ -124,7 +151,7 @@ A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos
 
 A empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria. (Fonte: https://www.iacit.com.br/).
 
-### Visão do Projeto (Equipe)
+### Visão do Projeto
 Desenvolver uma ferramenta capaz de criar e gerenciar atas de reunião, Focando em requisitos específicos da empresa parceira. Assim, possibilitando principalmente:
 
 - Criar e editar atas de reunião:
@@ -145,7 +172,7 @@ A ferramenta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de 
   
 - CSS
 
-### Contribuições pessoais (Individual)
+### Contribuições pessoais
 Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável por criar a lógica das seguintes features:
 - Login de usuário
   
@@ -157,22 +184,26 @@ Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável po
 
 - Relatórios
 
-### Aprendizados Efetivos HS (Individual)
+### Hard Skills
 
 - Desenvolvimento de serviços CRUD utilizando Java: Sei fazer com ajuda;
-  
 - Desenvolvimento utilizando Java: Sei fazer com ajuda;
-  
 - Utilização de ORM's com banco relacional: Sei fazer com autonomia;
-  
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
+
+### Soft Skills
+
+- Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 <h1 align="center"> Projeto 5: 2021-2 </h1>
 
 ### Parceiro Acadêmico
 > GSW
 
-### Visão do Projeto (Equipe)
+### Visão do Projeto
 
 A empresa informou a necessidade de uma extensão de um produto que já existe, que consiste em um portal de anúncio e vendas de imóveis.
 A extensão deveria consistir em um marketplace para anúncios e vendas de automóveis. Possibiltando também a negociação do produto dentro do próprio sistema.
@@ -183,45 +214,37 @@ A ferramenta também contem outras funcionalidades tais como:
 Cadastro de usuários e anúncios de forma automatizada;
 App mobile com todas as funcionalidades presentes na versão web;
 Busca pelos anúncios por meio de filtro e palavras-chaves:
-### Tecnologias adotadas na solução (Equipe)
+
+### Tecnologias adotadas na solução
 
 - Python
-  
 - MongoDB
-  
 - React native
-  
 - Expo
 
-### Contribuições pessoais (Individual)
+### Contribuições pessoais
 Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável por criar a lógica das seguintes features:
 
 - Criação de rotas;
-  
 - Criação de lógica para leitura de arquivos(.xls, .xlsx);
-  
 - Criação da lógica de envio de e-mail;
-  
 - Criação do CRUD de usuário;
-  
 - Criação do CRUD de anúncio;
 
-### Aprendizados Efetivos HS (Individual)
+### Hard Skills
 
 - Desenvolvimento de serviços CRUD utilizando Python: Sei fazer com autonomia;
-  
 - Desenvolvimento utilizando Python: Sei fazer com autonomia;
-  
 - Utilização de ORM's com banco não relacional: Sei fazer com autonomia;
-  
 - Manipulação de arquivos .xls, .xlsx com python: Sei fazer com autonomia;
-  
 - Metodologia ágil Scrum: Conceitos aprendidos conforme o decorrer do projeto: Sei fazer com autonomia;
 
-### Informações de contato
-[Linkedin](https://www.linkedin.com/in/jodangalas/)
+### Soft Skills
 
-[Github](https://github.com/JodanGalas)
+- Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 <h1 align="center"> Projeto 6: 2022-1 </h1>
 
@@ -231,25 +254,22 @@ Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável po
 > UOL
 
 ![UOL_logo](https://user-images.githubusercontent.com/29134051/166400924-89930a2b-ee52-4249-822b-08841456c095.png)
-### Visão do Projeto (Equipe)
+### Visão do Projeto
 O Orbit foi desenvolvido pela necessidade de prever futuros problemas e falhas em um sistema web e sana-los o quanto antes através do monitoramento constante e aviso prévio, visando o funcionamento da ferramenta monitorada em questão.
-### Tecnologias adotadas na solução (Equipe)
+
+### Tecnologias adotadas na solução
 
 - Java 
-  
 - Spring Boot
-
 - Vue JS
-
 - Locust
-
 - Prometheus
 
 ### Contribuições Pessoais
 
 Neste projeto contribuí com o gerenciamento e gestão da equipe fazendo o papel de Scrum Master bem como ponte de esclareciemnto entre empresa parceira e equipe de desenvolvimento. Gerir de forma correta o tempo ofertado e destribuir de forma correta para cada tarefa foi tido como um desafio.
 
-### Aprendizados Efetivos HS (Individual)
+### Hard Skills
 
 - Gestão de equipe: Sei fazer com autonomia
 - Java Spring Boot: Sei fazer com autonomia
@@ -257,12 +277,12 @@ Neste projeto contribuí com o gerenciamento e gestão da equipe fazendo o papel
 - Locust: Sei fazer com ajuda
 - Prometheus: Sei fazer com ajuda
 
-### Meus Principais Conhecimentos
-- Python
-  
-- MySQL
-  
-- Spring Boot 
+### Soft Skills
+
+- Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.
+- Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+- Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.
+- Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 ### Informações de contato
 
