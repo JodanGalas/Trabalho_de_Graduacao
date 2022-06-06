@@ -125,7 +125,7 @@ Foi desenvolvido um sistema GEOFPI(mini ETL)capaz de fazer a leitura, conversão
 - Manipulação de todos os arquivos geográficos utilizados ao longo do projeto.
 - Criação e manutenção do banco de dados utilizado pelo sistema.
 - Desenvolvimento do prototipo.
-- 
+
 ### Hard Skills
 
 - Desenvolvimento do CRUD usado na aplicação: Sei fazer com autonomia;
@@ -155,9 +155,7 @@ A empresa possui capacitação tecnológica para o desenvolvimento de produtos e
 Desenvolver uma ferramenta capaz de criar e gerenciar atas de reunião, Focando em requisitos específicos da empresa parceira. Assim, possibilitando principalmente:
 
 - Criar e editar atas de reunião:
-
 - Exportar atas diferentes formatos:
-  
 - Usabilidade mobile.
 
 A ferramenta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de gerenciamento de atas "Mitim", a tarefa de criar, gerenciar e analisar atas digitais deixou de ser algo complexo. A ferramenta também conta com funcionalidades extras como exportação do documento em PDF e disponibilização de atas para pessoas não necessariamente cadastradas na ferramentas.
@@ -165,23 +163,17 @@ A ferramenta "Mitim" foi desenvolvida para suprir tal demanda. Com o sistema de 
 ### Tecnologias adotadas na solução (Equipe)
 
 - MySQL
-  
 - ReactJS
-  
 - Java
-  
 - CSS
 
 ### Contribuições pessoais
 Atuei no desenvolvimento do backend do projeto como um todo. Fui responsável por criar a lógica das seguintes features:
+
 - Login de usuário
-  
 - Cadastro de usuário
-
 - Cadastro de atas
-
 - Impressão de atas
-
 - Relatórios
 
 ### Hard Skills
